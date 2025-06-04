@@ -1,0 +1,30 @@
+{
+  "dataVersion": 1,
+  "images": [
+
+
+	{
+      "category": "Original",
+      "label": "Arm",
+      "total": 2
+    },
+	{
+      "category": "Original",
+      "label": "Eye",
+      "total": 2
+    },
+	
+	
+	{
+      "category": "Thumbnail",
+      "label": "Arm",
+      "total": 2
+    },
+	{
+      "category": "Thumbnail",
+      "label": "Eye",
+      "total": 2
+    }
+	
+  ]
+}
