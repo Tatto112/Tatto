@@ -326,7 +326,44 @@
       "category": "Thumbnail",
       "label": "Zodiac",
       "total": 10
-    }
+    },
+	
+	
+	
+	{
+      "category": "Sketch",
+      "label": "Dog",
+      "total": 47
+    },
+	
+	{
+      "category": "Sketch",
+      "label": "Dragon",
+      "total": 39
+    },
+	{
+      "category": "Sketch",
+      "label": "Jaguar",
+      "total": 89
+    },
+	
+	{
+      "category": "Sketch",
+      "label": "Skull",
+      "total": 73
+    },
+	
+	{
+      "category": "Sketch",
+      "label": "Space",
+      "total": 56
+    },
+	
+	{
+      "category": "Sketch",
+      "label": "Wolf",
+      "total": 74
+    },
 	
 	
   ]
