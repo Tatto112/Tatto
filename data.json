@@ -1,5 +1,5 @@
 {
-  "dataVersion": 1,
+  "dataVersion": 2,
   "images": [
 
 
@@ -363,6 +363,24 @@
       "category": "Sketch",
       "label": "Wolf",
       "total": 74
+    },
+	
+	{
+      "category": "Sketch",
+      "label": "Angel Wings",
+      "total": 59
+    },
+	
+	{
+      "category": "Sketch",
+      "label": "Flower",
+      "total": 63
+    },
+	
+	{
+      "category": "Sketch",
+      "label": "Heart",
+      "total": 40
     }
 	
 	
